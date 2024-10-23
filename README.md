@@ -2,9 +2,9 @@
 
 Welcome to the Gradio Space for **ImageInception Gradio Space** models! This space allows you to interactively generate images from text prompts using two fine-tuned models:
 
-- **ImageInception/ArtifyAI v1.0**: Fine-tuned on 5000 images from the COCO dataset, this model excels in generating highly detailed and versatile images based on text descriptions.
-- **T5 + ArtifyAI v1.1**: A combination of T5 for text understanding and ArtifyAI v1.1 for producing stunning visuals from your text inputs.
-- **Stable Diffusion Finetuned**: A specialized generative model tailored for specific domain-related image generation.
+- **[ImageInception/ArtifyAI v1.0](https://huggingface.co/ImageInception/ArtifyAI-v1.0)**: Fine-tuned on 5000 images from the COCO dataset, this model excels in generating highly detailed and versatile images based on text descriptions.
+- **[T5 + ArtifyAI v1.1](https://huggingface.co/ImageInception/ArtifyAI-v1.1)**: A combination of T5 for text understanding and ArtifyAI v1.1 for producing stunning visuals from your text inputs.
+- **[Stable Diffusion Finetuned](https://huggingface.co/ImageInception/stable-diffusion-finetuned)**: A specialized generative model tailored for specific domain-related image generation.
 
 ## **How to Use This Space**
 
@@ -20,9 +20,9 @@ Type a description of the image you want to generate. Be creative! Some example 
 
 You can select between the following models:
 
-- **ImageInception/ArtifyAI v1.0**: Ideal for general-purpose image generation.
-- **T5 + ArtifyAI v1.1**: Optimized for detailed and artistic visualizations based on text.
-- **Stable Diffusion Finetuned**: Best for generating domain-specific images like landscapes or architecture..
+- **[ImageInception/ArtifyAI v1.0](https://huggingface.co/ImageInception/ArtifyAI-v1.0)**: Ideal for general-purpose image generation.
+- **[T5 + ArtifyAI v1.1](https://huggingface.co/ImageInception/ArtifyAI-v1.1)**: Optimized for detailed and artistic visualizations based on text.
+- **[Stable Diffusion Finetuned](https://huggingface.co/ImageInception/stable-diffusion-finetuned)**: Best for generating domain-specific images like landscapes or architecture.
 
 ### **3. Generate the Image:**
 
